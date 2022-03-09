@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmedsalawu
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on developers
+- 📫 How to reach me on WhatsApp +2348107782803
